@@ -1,0 +1,7 @@
+theTraits = random.choice(tuple(info.char_traits))
+
+info.char_traits.remove(theTraits)
+
+for info.trait_exclusions in info.trait_exclusions.get(theTraits, []):
+    if info.trait_exclusions in info.char_traits:
+        info.char_traits.remove(info.trait_exclusions)
