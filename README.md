@@ -3,5 +3,4 @@ If you want to play ck2 but you have no idea who to play as, then use this to ge
 
 Things I still need to do:<br/>
 ~ Add an ambition generator(More like goal generator)<br/>
-~ Make it so that the generated character will also generate a txt document when generated<br/>
-~ ???
+
